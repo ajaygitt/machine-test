@@ -1,0 +1,28 @@
+.Logout{
+    padding-left: 60%;
+  margin-left: 400%;
+}
+.MyNotesHead{
+   margin-right: 10%;
+   padding-left: 40%;
+   align-items: center;
+   text-align: center;
+
+}
+.button{
+  padding-left: 5%;
+}
+.button1{
+  padding-left: 55%;
+}
+.button2{
+  padding-left: 54px;
+}
+.button3{
+  padding-left: 55px;
+}
+
+.drop{
+  width: 50px;
+  height: 14px;
+}
